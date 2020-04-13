@@ -1,0 +1,132 @@
+body{
+    
+    background: #F4F4F4;
+    margin: 0;
+    
+}
+
+.link-title{
+    text-decoration: inherit;
+    font-size: 24px;
+    color: #444444;
+    
+}
+.container{
+    width: 780px;
+    margin:0 auto;
+    background: #FFF;
+    
+}
+
+.header{
+    
+   padding 200px 0 200px;
+    border: 2px solid blaclk;
+    
+}
+.menu{
+    background: #3b7687;
+    padding:6px 0 6px 40px;
+    
+}
+
+.menu a {
+    
+    color:aliceblue;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arial Narrow", "Myriad Pro";
+}
+
+.menu a:hover{
+    
+    color:cornsilk;
+}
+
+.sideBar{
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+}
+
+h1{
+   
+    margin: 0px;
+    color: #869843;
+    font-size; 24px;
+    font-family:"Arial Narrow","Myriad Pro";
+    font-weight: normal;
+    
+}
+
+h2{
+    
+    
+}
+
+.main{
+    
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    color: #444444;
+    font-family: "Georgia";
+    font-size: 13px;
+    line-height: 18px;
+    text-emphasis: justify;
+}
+
+.main a:hover{
+    
+    color: #444444;
+}
+
+#home-image img{
+    
+    width: 100%;
+    
+    
+}
+
+.footer{
+    padding: 6px 40px 6px 40px;
+    background: #d6d6d6;
+    font-family: "Lucida Sans Unicode";
+    color: #444444;
+    font-size: 11px;
+    text-decoration: right;
+      
+}
+.footer a{
+    
+    text-decoration: none;
+    color:#262626;
+}
+
+.seperator{
+    color: white;
+    font-size: 15px;
+     
+    
+}
+
+/*About Page Styles*/
+
+#about-page #home-image img{
+    
+    width: 70%;
+    float: left;
+    margin-bottom: 20px;
+    
+}
+
+#about-page #profile-info{
+    
+     float: right;
+     width: 20%;
+    margin: 5px;
+}
+
+#about-page .description{
+    
+    clear: both;
+}

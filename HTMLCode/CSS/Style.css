@@ -1,0 +1,97 @@
+/*
+ p{
+    color:red;
+    font-weight: bold;
+    font-size: 20px;
+
+    }
+*/
+
+
+p,h1{
+    color:red; 
+    
+}
+
+/*
+h1{
+     color:red; 
+    
+}*/
+
+div p{
+    color:blue; 
+}
+
+#first-para{
+    
+    color:greenyellow; 
+}
+
+.first-para{
+    
+    color:darkorange 
+}
+#Practice-Selector{
+    border: 1px solid black;
+    background: lightGreen;
+    color:white;
+    width: 100%;
+    float:inherit;
+    border-radius: 25px;
+    margin-right: 100px;
+    padding:20px;
+}
+div ul{
+    
+    list-style-type: square
+}
+
+#Picture-PracticePage{
+    
+    text-align: center;   
+}
+
+#CssPic-Container{
+    
+    border: 1px solid black;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: darkorange;
+    
+}
+
+img#prathap-Image{
+    
+    width: 100%
+}
+
+#CssPic2-Container{
+    width:2073px;
+    height:2612px;
+    background-image: url(../Images/IMG_01781.JPG);
+}
+
+#CssPic3-HoverOvers{
+    
+    width: 200px;
+    height: 200px;
+    border:1px solid black;
+    background-image: url(../Images/IMG_01781.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    
+}
+#CssPic3-HoverOvers h1{
+    
+    text-align: centre;
+}
+#CssPic3-HoverOvers:hover{
+    
+    background-color: lightgreen;
+    border: 1px solid red;
+    color: white;
+}
